@@ -1,6 +1,13 @@
-# portifolioTecnico2B
-## subtitulo
-### 3 titulo
+
+Descrição...
+
+* [Exemplo for](FundamentosTI/exemplos/seq_val_int.sh) 
+
+# Sobre mim: 
+
+## portifolioTecnico2B
+### subtitulo
+#### 3 titulo
 
 Oi, sou um texto.
 Adicionando nova informação
