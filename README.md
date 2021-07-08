@@ -1,7 +1,7 @@
 
 Descrição...
 
-* [Exemplo for](FundamentosTI/exemplos/seq_val_int.sh) 
+* [Exemplo for](FundamentosTI/teste/seq_val_int.sh) 
 
 # Sobre mim: 
 
