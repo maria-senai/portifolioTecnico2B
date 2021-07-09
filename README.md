@@ -2,7 +2,7 @@
 Descrição...
 
 * [Exemplo for](FundamentosTI/teste/seq_val_int.sh) 
-* [Exemplo 2] (FundamentosTI/exemplos/script_exemplo.sh)
+* [Exemplo 2](FundamentosTI/exemplos/script_exemplo.sh)
 
 # Sobre mim: 
 
