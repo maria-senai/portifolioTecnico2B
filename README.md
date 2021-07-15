@@ -1,18 +1,19 @@
+# portifolioTecnico2B
+Nome: Maria Negri
 
-Descrição...
+## Fudamentos de TI
+* [Exemplo for](FundamentosTI/teste/seq_val_int.sh)
 
-* [Exemplo for](FundamentosTI/teste/seq_val_int.sh) 
+## Lógica Computacional
+* [Exemplo paridade](LogicaComputcional/AulaVetores.java)
 
-# Sobre mim: 
-
-## portifolioTecnico2B
-### subtitulo
-#### 3 titulo
+## Sobre mim:
 
 Oi, sou um texto.
 Adicionando nova informação
 
-<b> negrito </b> <i> itálico </i>
+**negrito** 
+*itálico*
 
 * Item 1
 * Item 2
