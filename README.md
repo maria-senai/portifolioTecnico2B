@@ -1,5 +1,5 @@
 # portifolioTecnico2B
-Nome: Maria Negri
+Nome: Maria Claudia Rosa Negri
 
 ## Fudamentos de TI
 * [Exemplo for](FundamentosTI/teste/seq_val_int.sh)
