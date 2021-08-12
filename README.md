@@ -8,6 +8,7 @@ Nome: Maria Negri
 
 ## Lógica Computacional
 * [Exemplo paridade](LogicaComputcional/AulaVetores.java)
+* [Diretório com codigos de lógica](LogicaComputcional/)
 
 ## Sobre mim:
 
